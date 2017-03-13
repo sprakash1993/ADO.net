@@ -1,0 +1,11 @@
+c:\users\sam\documents\visual studio 2012\Projects\ado\ado\bin\ado.dll
+c:\users\sam\documents\visual studio 2012\Projects\ado\ado\bin\ado.pdb
+c:\users\sam\documents\visual studio 2012\Projects\ado\ado\obj\Debug\ado.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\ado\ado\obj\Debug\ado.dll
+c:\users\sam\documents\visual studio 2012\Projects\ado\ado\obj\Debug\ado.pdb
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\bin\ado.dll.config
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\bin\ado.dll
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\bin\ado.pdb
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\obj\Debug\ado.csprojResolveAssemblyReference.cache
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\obj\Debug\ado.dll
+I:\Drive Backup\F Drive\DESKTOP\documents\Visual Studio 2012\Projects\ado\ado\obj\Debug\ado.pdb
